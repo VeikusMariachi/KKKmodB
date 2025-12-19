@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Training Camp",
+        "replaces": "Barracks",
+        "uniqueTo": "Kirlland",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "production": 1,
+        "uniques": [
+            "New [Military] units start with [15] XP [in this city]",
+            "[+1 Science] <after discovering [Chivalry]>",
+            "[25]% Production when constructing [Ranged] units [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+    {
+        "name": "Sacred Altar",
+        "replaces": "Shrine",
+        "uniqueTo": "Kostyaland",
+        "faith": 1,
+        "happiness": 1,
+        "cost": 40,
+        "maintenance": 0,
+        "requiredTech": "Pottery",
+        "uniques": ["Only available <when religion is enabled>"
+       ]
+    }
+    {
+        "name": "Statue of Kirill",
+        "replaces": "Palace",
+        "uniqueTo": "Kirlland",
+        "isNationalWonder": true,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "happiness": 1,
+        "cityStrength": 2,
+        "cost": 0,
+        "uniques": [
+            "Indicates the capital city",
+            "Comment [Has 1 Great Work of Writing Slot]",
+            "[+20]% [Science] [in capital] <during a Golden Age>"
+        ]
+    },
+    {
+        "name": "Statue of Kolya",
+        "replaces": "Palace",
+        "uniqueTo": "Kolyaland",
+        "isNationalWonder": true,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "cityStrength": 2,
+        "percentStatBonus": {"gold": 25},
+        "cost": 0,
+        "uniques": [
+            "Indicates the capital city",
+            "Comment [Has 1 Great Work of Writing Slot]",
+            "[+4 Culture] <after discovering [Archaeology]>"
+        ]
+    },
+    {
+        "name": "Statue of Kostya",
+        "replaces": "Palace",
+        "uniqueTo": "Kostyaland",
+        "isNationalWonder": true,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "cityStrength": 3,
+        "cost": 0,
+        "uniques": [
+            "Indicates the capital city",
+            "Comment [Has 1 Great Work of Writing Slot]",
+            "[+4 Faith] <after discovering [Theology]>",
+            "[+25]% Production when constructing [Melee] units [in this city]"
+        ]
+    }
+]

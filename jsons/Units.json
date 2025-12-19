@@ -1,0 +1,22 @@
+[
+{
+        "name": "Royal Guard",
+        "unitType": "Sword",
+        "replaces": "Swordsman",
+        "uniqueTo": "Kolyaland",
+        "movement": 2,
+        "strength": 14,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "obsoleteTech": "Steel",
+        "requiredResource": "Iron",
+        "hurryCostModifier": 20,
+        "promotions": ["Monarchy Defender"]
+        "uniques": [
+        "Earn [100]% of killed [All] unit's [Strength] as [Gold]"
+],
+        "attackSound": "metalhit"
+    }
+    
+]

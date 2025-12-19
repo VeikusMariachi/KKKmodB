@@ -1,0 +1,9 @@
+[
+    // Melee, Mounted+Armor    
+  {
+    "name": "Monarchy Defender",
+    "uniques": [
+    "[+10]% Strength <in [Friendly Land] tiles>"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+	{
+		"name": "Kirlland",
+		"leaderName": "The Great Kirill",
+		"adjective": ["Kirillyan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+
+		"outerColor": [180,136,60],
+		"innerColor": [70, 50, 30],
+		"uniqueName":"Industrial Titan",
+		//"uniqueText":"• [+1 Production] от всех зданий\n• +[25]% к производству зданий в Столице\n• Все созданные юниты не получают штрафов к местности",
+		"uniques": [
+"[+1 Production] [in all cities connected to capital]",
+"[+1 Production] [in all cities] <after discovering [Engineering]>",
+"[+1 Production] [in all cities] <after discovering [Machinery]>",
+"[+2 Production] [in all cities] <after discovering [Industrialization]>"
+],
+		"cities": ["Катастрофа", "Ничертог", "Мискбар", "Кириллинград", "Сливнирестов", "Банкаломат","Биторг"]
+	},
+	
+	
+	
+	
+	
+	{
+		"name": "Kolyaland",
+		"leaderName": "Nicolas The Abundant",
+		"adjective": ["Kolyan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"outerColor": [224, 170, 20],
+		"innerColor": [255, 255, 255],
+		"uniqueName":"Golden Dynasty",
+		//"uniqueText":"• [+1 Production] от всех зданий\n• +[25]% к производству зданий в Столице\n• Все созданные юниты не получают штрафов к местности",
+		"uniques": [
+"Retain [50]% of the happiness from a luxury after the last copy has been traded away",
+"[+25]% Golden Age length",
+"[+1 Gold] from [Strategic resource] tiles [in all cities]",
+"[+1 Gold] from [Luxury resource] tiles [in all cities]"
+],
+		"cities": ["Кредитополь","Златоград","Прибыльск","Биржевик","Купноморск","Торгуново","Златоуст","Монетольск","Изобильный","Ликвид","Бартерхолм","Фьючерс","Дивидендия","Аукционов"]
+	},
+	
+	
+	
+	
+	
+	
+	{
+		"name": "Kostyaland",
+		"leaderName": "Leader Konstantin",
+		"adjective": ["Skelet"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"outerColor": [25, 70, 80],
+		"innerColor": [200, 200, 200],
+		"uniqueName":"Blessing of War",
+		//"uniqueText":"• [+1 Production] от всех зданий\n• +[25]% к производству зданий в Столице\n• Все созданные юниты не получают штрафов к местности",
+		"uniques": [
+		"Earn [100]% of killed [All] unit's [Strength] as [Faith]"
+		"When conquering an encampment, earn [40] Gold and recruit a Barbarian unit",
+		"[+1 Faith] from all [Barracks] buildings",
+		"[+1 Faith] from all [Armory] buildings",
+		"[+1 Faith] from all [Military Academy] buildings"
+],
+		"cities": ["Некрополис","Этернус","Мортис","Умбрий","Экзерин","Тумандор","Лич"]
+	},
+	
+]
