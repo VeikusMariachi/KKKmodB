@@ -1,0 +1,27 @@
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Kirlland
+  rotate: false
+  xy: 35, 35
+  size: 300, 300
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+  NationIcons/Kolyaland
+  rotate: false
+  xy: 430, 60
+  size: 260, 260
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+  NationIcons/Kostyaland
+  rotate: false
+  xy: 760, 35
+  size: 340, 340
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ 
