@@ -1,4 +1,4 @@
-game.png
+atlases/nations.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -21,6 +21,46 @@ NationIcons/Kirlland
   rotate: false
   xy: 760, 35
   size: 340, 340
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Michland
+  rotate: false
+  xy: 760, 35
+  size: 340, 340
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+  
+atlases/icons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Adit
+  rotate: false
+  xy: 25, 25
+  size: 350, 350
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+  
+atlases/tiles.png
+size: 320, 320
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Adit
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Adit
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
   orig: 150, 150
   offset: 0, 0
   index: -1
