@@ -1,5 +1,4 @@
-# KKKmod(Balanced)
-KKK MOD KKK KKKMR 3KMR
+# KKKmodB(Balanced)
 
 Unciv mod for my friends 
 
