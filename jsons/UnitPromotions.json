@@ -5,5 +5,11 @@
     "uniques": [
     "[+10]% Strength <in [Friendly Land] tiles>"
     ]
+  },
+  {
+    "name": "Mountain Worker",
+    "uniques": [
+    "Can pass through impassable tiles <in [your] tiles>"
+    ]
   }
 ]

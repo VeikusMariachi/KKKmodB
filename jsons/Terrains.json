@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mountain",
+        "type": "Land",
+        "impassable": true,
+        "defenceBonus": 0.25,
+        "RGB": [120, 120, 120],
+        "uniques": [
+            "Rough terrain",
+            "Has an elevation of [2] for visibility calculations",
+            "Occurs in chains at high elevations",
+            "Units ending their turn on this terrain take [50] damage <for units without [Mountain Worker]>",
+            "[-1] to Fertility for Map Generation",
+            "Considered [Undesirable] when determining start locations"
+        ]
+    }
+]

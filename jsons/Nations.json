@@ -112,5 +112,32 @@ Bo wjedzie biały węgorz",
 		"[+1 Faith] from all [Military Academy] buildings"
 ],
 		"cities": ["Некрополис","Этернус","Мортис","Умбрий","Экзерин","Этернал Давн","Тумандор","Лич","Бонвиль","Тихий Склеп"]
+	},
+	
+	
+	
+	{
+		"name": "Michland",
+		"leaderName": "Leader Michael",
+		"adjective": ["Skelet"],
+		"startBias": ["Mountain","Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"outerColor": [25, 70, 80],
+		"innerColor": [200, 200, 200],
+		"uniqueName":"Blessing of War",
+		//"uniqueText":"• [+1 Production] от всех зданий\n• +[25]% к производству зданий в Столице\n• Все созданные юниты не получают штрафов к местности",
+		"uniques": [
+		"[Worker] units gain the [Mountain Worker] promotion"
+],
+		"cities": ["Тест"]
 	}
+	
 ]

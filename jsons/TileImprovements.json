@@ -1,0 +1,39 @@
+[
+{
+        "name": "Adit",
+        "uniqueTo": "Michland",
+        "terrainsCanBeBuiltOn": ["Mountain"],
+        "production": 2,
+        "turnsToBuild": 5,
+        "uniques": [
+            "[+1 Gold] for each adjacent [Adit]",
+            "[+1 Production] <after discovering [Chemistry]>",
+            "[+1 Culture] <after discovering [Flight]>",
+            "Can only be built on [Mountain] tiles",
+            "Pillaging this improvement yields approximately [+30 Gold]"
+        ],
+        "techRequired": "Bronze Working",
+        "shortcutKey": "M"
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "Farm",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+        "food": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Agriculture",
+        "uniques": [
+            "Can also be built on tiles adjacent to fresh water <in [Land] tiles>",
+            "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+            "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Can only be built to improve a resource <in [resource] tiles>",
+            "Pillaging this improvement yields approximately [+18 Gold]",
+            "Cannot be built on [Mountain] tiles"
+        ],
+        "shortcutKey": "F"
+    }
+]
