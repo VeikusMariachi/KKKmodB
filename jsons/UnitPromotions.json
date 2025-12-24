@@ -9,7 +9,8 @@
   {
     "name": "Mountain Worker",
     "uniques": [
-    "Can pass through impassable tiles <in [your] tiles>"
+    "Can pass through impassable tiles <in [your] tiles>",
+    "Double movement in [Hill]"
     ]
   }
 ]

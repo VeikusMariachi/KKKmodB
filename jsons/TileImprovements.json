@@ -4,11 +4,12 @@
         "uniqueTo": "Michland",
         "terrainsCanBeBuiltOn": ["Mountain"],
         "production": 2,
+        "gold": 1,
         "turnsToBuild": 5,
         "uniques": [
             "[+1 Gold] for each adjacent [Adit]",
+            "[+1 Production] <after discovering [Steel]>",
             "[+1 Production] <after discovering [Chemistry]>",
-            "[+1 Culture] <after discovering [Flight]>",
             "Can only be built on [Mountain] tiles",
             "Pillaging this improvement yields approximately [+30 Gold]"
         ],

@@ -3,6 +3,7 @@
         "name": "Mountain",
         "type": "Land",
         "impassable": true,
+        "movementCost": 2,
         "defenceBonus": 0.25,
         "RGB": [120, 120, 120],
         "uniques": [

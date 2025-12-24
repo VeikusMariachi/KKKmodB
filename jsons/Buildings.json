@@ -25,7 +25,29 @@
         "requiredTech": "Pottery",
         "uniques": ["Only available <when religion is enabled>"
        ]
-    }
+    },
+    {
+        "name": "Miners Guild",
+        "replaces": "Ironworks",
+        "uniqueTo": "Michland",
+        "cost": 125,
+        "production": 8,
+        "culture": 1,
+        "science": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city",
+            "[+1 Production] from every [Adit]",
+            "[+1 Production] from every [Mine] <in this city>"
+        ],
+        "requiredTech": "Machinery"
+    },
+    
+    
+    
+    
+    
     {
         "name": "Statue of Kirill",
         "replaces": "Palace",
@@ -71,13 +93,31 @@
         "science": 3,
         "gold": 3,
         "culture": 1,
-        "cityStrength": 3,
+        "cityStrength": 2,
         "cost": 0,
         "uniques": [
             "Indicates the capital city",
             "Comment [Has 1 Great Work of Writing Slot]",
             "[+4 Faith] <after discovering [Theology]>",
             "[+25]% Production when constructing [Melee] units [in this city]"
+        ]
+    },
+    {
+        "name": "Statue of Misha",
+        "replaces": "Palace",
+        "uniqueTo": "Michland",
+        "isNationalWonder": true,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "happiness": 1,
+        "cityStrength": 3,
+        "cost": 0,
+        "uniques": [
+            "Indicates the capital city",
+            "Comment [Has 1 Great Work of Writing Slot]",
+            "[+20]% Production when constructing [Building] buildings [in this city]"
         ]
     }
 ]
