@@ -5,28 +5,28 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Kirlland
   rotate: false
-  xy: 35, 35
-  size: 300, 300
+  xy: 40, 40
+  size: 320, 320
   orig: 150, 150
   offset: 0, 0
   index: -1
   NationIcons/Kolyaland
   rotate: false
-  xy: 430, 60
-  size: 260, 260
+  xy: 460, 50
+  size: 310, 310
   orig: 150, 150
   offset: 0, 0
   index: -1
   NationIcons/Kostyaland
   rotate: false
-  xy: 760, 35
-  size: 340, 340
+  xy: 820, 5
+  size: 400, 400
   orig: 150, 150
   offset: 0, 0
   index: -1
 NationIcons/Michland
   rotate: false
-  xy: 760, 35
+  xy: 1260, 20
   size: 340, 340
   orig: 150, 150
   offset: 0, 0
@@ -41,6 +41,40 @@ ImprovementIcons/Adit
   rotate: false
   xy: 25, 25
   size: 350, 350
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+  
+atlases/buildings.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Miners Guild
+  rotate: false
+  xy: 20, 20
+  size: 360, 360
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Statue of Kirill
+  rotate: false
+  xy: 50, 1690
+  size: 300, 300
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Statue of Kolya
+  rotate: false
+  xy: 470, 1690
+  size: 300, 300
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Statue of Kostya
+  rotate: false
+  xy: 860, 1690
+  size: 300, 300
   orig: 150, 150
   offset: 0, 0
   index: -1
