@@ -136,34 +136,6 @@
 ],
 		"cities": ["Тронжхайм", "Фартхен Дур", "Тарнаг", "Ортхиад", "Дору Ариба", "Арроуз", "Кевнон", "Тирм", "Итро Жада", "Бьера"],
 		"spyNames": ["Орик", "Штольнмейхер", "Киркрун", "Камнеруб", "Сверл", "Инспектор шахт", "Энхунн Ночной Молот", "Стальной Зроннул"]
-	},
-
-
-	{
-    "name": "Grimmhole",
-    "leaderName": "Varnul II The Great",
-    "adjective": ["Grimmholeans"],
-    "startBias": ["Hill"],
-    "preferredVictoryType": "Domination",
-
-    "startIntroPart1": "",
-    "startIntroPart2": "",
-
-    "neutralHello": "",
-    "hateHello": "",
-
-    "declaringWar": "",
-    "attacked": "",
-    "defeated": "",
-    "denounced": "",
-    "tradeRequest": "",
-    "introduction": "",
-    "outerColor": [25, 191, 111],
-    "innerColor": [13, 71, 8],
-    "uniqueName": "",
-    "uniques": [],
-    "cities": ["Гриммхол"],
-    "spyNames": []
-  }
+	}
 	
 ]
